@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">CosmeticRecomendations</string>
+    <string name="list">List</string>
+    <string name="cosmetics_recommendation">Rekomendasi Kosmetik</string>
+    <string name="description">Deskripsi</string>
+    <string name="product_name">Nama Produk</string>
+    <string name="price">Harga</string>
+    <string name="size">Ukuran</string>
+    <string name="nama_lengkap">Silvia Prada Aprilia</string>
+    <string name="email">a066dky3861@bangkit.academy</string>
+    <string name="about">About</string>
+    <string name="benefit">Manfaat</string>
+    <string name="image1">Image 1</string>
+    <string-array name="data_cosmetics">
+        <item>Acnederm Acne Care Serum</item>
+        <item>Acnederm Acne Spot Treatment Gel</item>
+        <item>Acnederm Night Treatment Moisturizer</item>
+        <item>Acnederm Day Moisturizer</item>
+        <item>Acnederm Pure Refining Toner</item>
+        <item>Acnederm Pure Foaming Cleanser</item>
+        <item>Acnederm Pore Blackhead Balm</item>
+        <item>UV Shield Light Matte Sun Stick SPF 50 PA++++</item>
+        <item>UV Shield Active Protection Serum SPF 50 PA++++</item>
+        <item>UV Shield Aqua Fresh Essence SPF 50 PA++++</item>
+        <item>UV Shield Essential Sunscreen Gel SPF 30 PA+++</item>
+        <item>Crystal Secret Micellar Cleansing Gel</item>
+        <item>Crystal Secret Refreshing Day Gel</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Serum multifungsi bertekstur ringan dengan kombinasi bahan aktif 5% Azeclair™?, 0.5% Salicylic Acid, dan Tea Tree Oil yang diformulasikan untuk kulit berjerawat.</item>
+        <item>Wardah Acnederm Acne Spot Treatment Gel bantu atasi masalah jerawat di wajah dengan kandungan Derma Treat Actives dengan BHA dan Willowherb Extract.</item>
+        <item>Malam hari merupakan waktu terbaik bagi kulit untuk memulihkan kondisi serta menyerap semua nutrisi penting yang dibutuhkan. Wardah Acnederm Night Treatment Moisturizer dengan 7 Extract Tumbuhan Alami tidak hanya mampu menutrisi kulit, namun juga menjaga hidrasi serta membantu mencerahkannya.</item>
+        <item>Pelembab khusus untuk perawatan kulit yang rentan berjerawat, untuk menjaga hidrasi kulit sekaligus melindunginya dari sinar UV.</item>
+        <item>Gunakan toner multifungsi yang dapat bantu meringkas pori-pori kulit setelah membersihkan wajah. Hasilnya kulit akan lebih mudah menyerap manfaat krim pelembab yang akan digunakan.</item>
+        <item>Pembersih wajah tepat yang diformulasikan untuk bantu atasi masalah kulit berjerawat, mampu membersihkan debu, kotoran, dan minyak berlebih di wajah.</item>
+        <item>Merupakan balm untuk kurangi komedo/blackhead di pori-pori wajah yang timbul akibat minyak berlebih, yang menumpuk di dalam pori kulit dan menghitam karena teroksidasi.</item>
+        <item>Wardah UV Shield Light Matte Sun Stick SPF 50 PA ++++ adalah inovasi sunscreen matte dan ringan dalam kemasan stick on-the-go yang praktis dan nyaman digunakan setiap hari dan merupakan 3 in 1 on the go Sunstick (Serum + Primer + Sunscreen) pertama di Indonesia</item>
+        <item>Wardah UV Shield Active Protection Serum SPF 50 PA++++, sunscreen dengan Broad Spectrum Protection, 50x lebih optimal* menjaga kulit dari sinar UV A / UV B serta pancaran blue light berlebih.</item>
+        <item>Wardah UV Shield Aqua Fresh Essence SPF 50 PA++++, sunscreen dengan Broad Spectrum Protection, 50x lebih optimal* menjaga kulit dari sinar UV A / UV B, serta pancaran blue light berlebih.</item>
+        <item>Wardah UV Shield Essential Sunscreen Gel SPF 30 PA+++ adalah sunscreen dengan Broad Spectrum Protection, 30x lebih optimal* menjaga kulit dari sinar UV A / UV B serta pancaran blue light berlebih.</item>
+        <item>Micellar gel yang bersihkan kulit dan menyegarkan, cocok untuk kulit normal berminyak. First cleanser dengan tekstur gel dan sustainable moist beads untuk membersihkan wajah secara menyeluruh dengan sensasi tetap lembab. Diperkaya Natural AHA + PHA untuk mengangkat sel kulit mati, kulit terasa lebih bersih, halus, dan tampak cerah sebening kristal.</item>
+        <item>Day gel dengan tekstur gel ringan untuk mencerahkan, menghidrasi, dan melindungi kulit dari sinar UVA/UVB dengan SPF 35 PA+++. Cocok untuk kulit normal - oily. </item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://d2jlkn4m127vak.cloudfront.net/medias/products/thumbnail-1645710075.png</item>
+        <item>https://d2jlkn4m127vak.cloudfront.net/medias/products/thumbnail-1648519426.png</item>
+        <item>https://d2jlkn4m127vak.cloudfront.net/medias/products/thumbnail-1648519409.png</item>
+        <item>https://d2jlkn4m127vak.cloudfront.net/medias/products/thumbnail-1648519392.png</item>
+        <item>https://d2jlkn4m127vak.cloudfront.net/medias/products/thumbnail-1648519371.png</item>
+        <item>https://d2jlkn4m127vak.cloudfront.net/medias/products/thumbnail-1648519356.png</item>
+        <item>https://d2jlkn4m127vak.cloudfront.net/medias/products/thumbnail-1656145294.png</item>
+        <item>https://d2jlkn4m127vak.cloudfront.net/medias/products/thumbnail-1648122932.png</item>
+        <item>https://d2jlkn4m127vak.cloudfront.net/medias/products/thumbnail-1648122826.png</item>
+        <item>https://d2jlkn4m127vak.cloudfront.net/medias/products/thumbnail-1648122739.png</item>
+        <item>https://d2jlkn4m127vak.cloudfront.net/medias/products/thumbnail-1648122693.png</item>
+        <item>https://d2jlkn4m127vak.cloudfront.net/medias/products/thumbnail-1645418993.png</item>
+        <item>https://d2jlkn4m127vak.cloudfront.net/medias/products/thumbnail-1645418993.png</item>
+        <item>https://d2jlkn4m127vak.cloudfront.net/medias/products/thumbnail-1645418271.png</item>
+    </string-array>
+    <string-array name="data_price">
+        <item>Rp72.500</item>
+        <item>Rp28.500</item>
+        <item>Rp40.000</item>
+        <item>Rp38.500</item>
+        <item>Rp34.000</item>
+        <item>Rp26.000</item>
+        <item>Rp41.500</item>
+        <item>Rp99.900</item>
+        <item>Rp79.000</item>
+        <item>Rp59.000</item>
+        <item>Rp37.500</item>
+        <item>Rp48.000</item>
+        <item>Rp105.000</item>
+    </string-array>
+    <string-array name="data_size">
+        <item>15 ml</item>
+        <item>15 ml</item>
+        <item>40 ml</item>
+        <item>40 ml</item>
+        <item>100 ml</item>
+        <item>40 ml</item>
+        <item>20 gr</item>
+        <item>22 gr</item>
+        <item>35 ml</item>
+        <item>30 ml</item>
+        <item>40 ml</item>
+        <item>95 ml</item>
+        <item>30 ml</item>
+    </string-array>
+    <string-array name="data_benefit">
+        <item>- Mengurangi tampilan minyak berlebih\n- Menenangkan kemerahan pada wajah\n- Melawan bakteri penyebab jerawat\n- Menyamarkan bekas jerawat\n- Mencerahkan wajah\n
+        </item>
+        <item>- Mendinginkan dan menyegarkan kulit\n- Tekstur Ringa\n- Mampu menyerap minyak berlebih dan menyembuhkan jerawat secara instan\n
+        </item>
+        <item>- Menutrisi kulit\n- Melembapkan kulit\n- Mencerahkan kulit\n
+        </item>
+        <item>- Pelembab gel dengan SPF 15\n- Disertai dengan Triclosan untuk mencegah timbulnya jerawat dan Witch Hazel Extract sebagai Oil Control\n- Menenangkan kulit\n- Ringan dan cepat meresap\n- Dilengkapi dengan Pro Vitamin B5 dan Vitamin E\n
+        </item>
+        <item>- Menenangkan Kulit Wajah\n- Menghambat bakteri penyebab jerawat\- Melembapkan\n- Meringkas pori\n
+        </item>
+        <item>- Bantu kurangi komedo di wajah\n- Menenangkan kulit wajah\n- Menjadikan kulit wajah lembab dan kenyal\n
+        </item>
+        <item>- Menghambat bakteri jerawat\n- Membantu mengurangi komedo di wajah\n- Melembapkan\n
+        </item>
+        <item>Formula terasa ringan dan tidak lengket digunakan, walaupun tidak mengandung alkohol. Diformulasikan dengan oil absorber yang menghasilkan tampilan wajah yang matte dan smooth, sehingga produk dapat digunakan juga sebagai primer sebelum menggunakan make up (membuat make up lebih menyatu dan tahan lama hingga 8 jam)
+        </item>
+        <item>- SPF 50 PA++++ (UVA/UVB, blue light protection)\n- Alcohol free\n- Waterproof dan sweatproof\n- Tidak luntur meski terkena air\n- Cocok untuk semua jenis kulit\n- No white cast\n
+        </item>
+        <item>- No white cast\n- SPF 50PA+++\n- Watery feel\n- Hydrating (dengan aquafused technology)\n- Alcohol free dan non comedogenic\n- Cocok untuk semua jenis kulit\n
+        </item>
+        <item>- No white cast\n- SPF 30PA+++\n- Watery feel\n- Tekstur ringan\n- Alcohol free dan non comedogenic\n- Cocok untuk semua jenis kulit\n- Mengandung Vit E dan Pro Vit B5\n
+        </item>
+        <item>- Edelweiss Extract: membantu proses pencerahan kulit secara menyeluruh\n- Natural AHA: mengangkat sel kulit mati dan meningkatkan kehalusan tekstur kulit\n- PHA: secara lembut mengangkat sel kulit mati dan meningkatkan kelembapan kulit\n- Sustainable moistbeads: melepaskan kelembapan ke kulit\n
+        </item>
+        <item>- Edelweiss Extract: membantu proses pencerahan kulit secara menyeluruh\n- Alpha Arbutin: mencerahkan noda hitam dan bekas jerawat serta meratakan warna kulit\n- SPF 35 PA+++: melindungi penggelapan kulit akibat sinar UVA/UVB\n- Niacinamide: Mengurangi tampilan kulit kusam\n
+        </item>
+    </string-array>
+</resources>
